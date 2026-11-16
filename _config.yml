@@ -1,8 +1,8 @@
 
 title: "The Plus Side"
 description: "Thoughts on people, processes, profits, and everything in between."
-url: "https://thessplus.github.io"
-baseurl: "/home"
+url: "https://thessplus.com"
+baseurl: ""
 timezone: Asia/Manila
 
 markdown: kramdown
@@ -19,4 +19,3 @@ plugins:
   - jekyll-feed
 feed:
   path: /blog/feed.xml
-# Rebuild for October 30 blog publication
